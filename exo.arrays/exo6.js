@@ -5,4 +5,4 @@ function mostFrequent(arr) {
 }
 
 
-console.log(mostFrequent(fruits))
+console.log(mostFrequent(fruits)) 
