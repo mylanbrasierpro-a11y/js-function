@@ -1,0 +1,61 @@
+.buttonF{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    padding: 8px 12px;
+    border: 1px solid black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 2px;
+    transition: 0.1s ;
+
+}  
+.buttonF:hover{
+    padding: 10px 14px;
+}
+.buttonM{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    padding: 8px 12px;
+    border: 1px solid black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 2px;
+    transition: 0.1s ;
+
+}
+.buttonM:hover{
+    padding: 10px 14px;
+}
+.buttonT{
+    background-color: green;
+    color: rgb(255, 255, 255);
+    padding: 8px 12px;
+    border: 1px solid black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 2px;
+    transition: 0.1s ;
+
+}
+.buttonT:hover{
+    padding: 10px 14px;
+}
+.container{
+    margin: 20px;
+}
+#button{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 6px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.1s ;
+
+}
+#button:hover{
+    padding: 8px 12px;
+}
+#message{
+    color: red;
+}
